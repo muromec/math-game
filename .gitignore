@@ -1,0 +1,5 @@
+build/*.js
+.webpack-cache/
+.*.swp
+.*.swo
+node_modules/
